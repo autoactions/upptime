@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Openai API
-    url: https://openai.omo.monster/
+    url: https://openai.omo.monster/gateway
   - name: Hot News API
     url: https://api.hotnews.lirtual.cloudns.org/
   - name: Flaredrive Webdav
