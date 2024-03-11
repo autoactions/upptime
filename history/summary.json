@@ -1,7 +1,7 @@
 [
   {
     "name": "Openai API",
-    "url": "https://openai.omo.monster/",
+    "url": "https://openai.omo.monster/gateway",
     "icon": "https://icons.duckduckgo.com/ip3/openai.omo.monster.ico",
     "slug": "openai-api",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 666,
-    "timeWeek": 491,
-    "timeMonth": 499,
-    "timeYear": 434,
+    "time": 444,
+    "timeDay": 791,
+    "timeWeek": 544,
+    "timeMonth": 513,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 1142,
-    "timeWeek": 1290,
-    "timeMonth": 1183,
-    "timeYear": 1248,
+    "time": 1227,
+    "timeDay": 668,
+    "timeWeek": 1153,
+    "timeMonth": 1150,
+    "timeYear": 1227,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 82,
+    "timeDay": 92,
     "timeWeek": 100,
     "timeMonth": 103,
     "timeYear": 99,
