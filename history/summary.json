@@ -1,5 +1,23 @@
 [
   {
+    "name": "Memos",
+    "url": "https://memos.lirtual.cloudns.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/memos.lirtual.cloudns.org.ico",
+    "slug": "memos",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 277,
+    "timeDay": 277,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Openai API",
     "url": "https://openai.omo.monster/",
     "icon": "https://icons.duckduckgo.com/ip3/openai.omo.monster.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 333,
-    "timeWeek": 307,
-    "timeMonth": 391,
-    "timeYear": 418,
+    "time": 415,
+    "timeDay": 292,
+    "timeWeek": 300,
+    "timeMonth": 387,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1204,
-    "timeDay": 1166,
-    "timeWeek": 1052,
-    "timeMonth": 1168,
-    "timeYear": 1204,
+    "time": 1194,
+    "timeDay": 909,
+    "timeWeek": 1002,
+    "timeMonth": 1152,
+    "timeYear": 1194,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 80,
-    "timeWeek": 93,
-    "timeMonth": 95,
+    "timeDay": 74,
+    "timeWeek": 90,
+    "timeMonth": 94,
     "timeYear": 98,
     "dailyMinutesDown": {}
   }
