@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Memos
-    url: https://memos.lirtual.cloudns.org/api/v1/status
+    url: https://memos.lirtual.cloudns.org/
   - name: Openai API
     url: https://openai.omo.monster/
   - name: Hot News API
