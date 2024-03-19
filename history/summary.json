@@ -4,19 +4,19 @@
     "url": "https://memos.lirtual.cloudns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/memos.lirtual.cloudns.org.ico",
     "slug": "memos",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "status": "up",
+    "uptime": "88.06%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "88.06%",
+    "uptimeYear": "88.06%",
+    "time": 360,
+    "timeDay": 360,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-03-19": 0
+      "2024-03-19": 29
     }
   },
   {
