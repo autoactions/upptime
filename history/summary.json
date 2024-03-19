@@ -4,18 +4,20 @@
     "url": "https://memos.lirtual.cloudns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/memos.lirtual.cloudns.org.ico",
     "slug": "memos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 277,
     "timeDay": 277,
     "timeWeek": 277,
     "timeMonth": 277,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 0
+    }
   },
   {
     "name": "Openai API",
