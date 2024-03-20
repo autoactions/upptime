@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/memos.lirtual.cloudns.org.ico",
     "slug": "memos",
     "status": "up",
-    "uptime": "93.80%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "93.80%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "93.80%",
-    "time": 412,
-    "timeDay": 412,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "uptime": "96.86%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
+    "time": 1974,
+    "timeDay": 1974,
+    "timeWeek": 1974,
+    "timeMonth": 1974,
+    "timeYear": 1974,
     "dailyMinutesDown": {
-      "2024-03-19": 38
+      "2024-03-19": 29
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 290,
-    "timeWeek": 297,
-    "timeMonth": 378,
-    "timeYear": 409,
+    "time": 410,
+    "timeDay": 319,
+    "timeWeek": 306,
+    "timeMonth": 377,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1186,
-    "timeDay": 974,
-    "timeWeek": 1006,
-    "timeMonth": 1140,
-    "timeYear": 1186,
+    "time": 1182,
+    "timeDay": 935,
+    "timeWeek": 986,
+    "timeMonth": 1136,
+    "timeYear": 1182,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 80,
-    "timeWeek": 88,
-    "timeMonth": 93,
-    "timeYear": 97,
+    "time": 98,
+    "timeDay": 100,
+    "timeWeek": 95,
+    "timeMonth": 96,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   }
 ]
