@@ -1,7 +1,7 @@
 url: https://memos.lirtual.cloudns.org/api/v2/memos/stats
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-27T01:35:34.207Z
+status: up
+code: 401
+responseTime: 12385
+lastUpdated: 2024-03-27T02:05:19.479Z
 startTime: 2024-03-19T09:16:47.032Z
 generator: Upptime <https://github.com/upptime/upptime>
