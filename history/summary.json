@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/memos.lirtual.cloudns.org.ico",
     "slug": "memos",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 3511,
-    "timeDay": 485,
+    "timeDay": 522,
     "timeWeek": 2381,
     "timeMonth": 3511,
     "timeYear": 3511,
@@ -29,9 +29,9 @@
     "url": "https://openai.omo.monster/",
     "icon": "https://icons.duckduckgo.com/ip3/openai.omo.monster.ico",
     "slug": "openai-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,7 +40,9 @@
     "timeWeek": 401,
     "timeMonth": 378,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-29": 0
+    }
   },
   {
     "name": "Hot News API",
