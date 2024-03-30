@@ -8,7 +8,7 @@ sites:
     expectedStatusCodes:
       - 401
   - name: Openai API
-    url: https://openai.omo.monster/
+    url: https://openai.122399.xyz/
   - name: Hot News API
     url: https://api.hotnews.lirtual.cloudns.org/
   - name: Flaredrive Webdav
