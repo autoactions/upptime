@@ -12,7 +12,7 @@ sites:
   - name: Hot News API
     url: https://api.hotnews.lirtual.cloudns.org/
   - name: Flaredrive Webdav
-    url: https://flaredrive-webdav.lirtual.workers.dev/
+    url: https://r2-webdav.lirtual.workers.dev/
     expectedStatusCodes:
       - 401
 
