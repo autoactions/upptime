@@ -30,11 +30,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openai.122399.xyz.ico",
     "slug": "openai-api",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.51%",
     "uptimeMonth": "97.36%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 441,
     "timeDay": 120,
     "timeWeek": 691,
@@ -68,17 +68,19 @@
     "url": "https://flaredrive-webdav.lirtual.workers.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/flaredrive-webdav.lirtual.workers.dev.ico",
     "slug": "flaredrive-webdav",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
+    "time": 96,
     "timeDay": 80,
-    "timeWeek": 86,
+    "timeWeek": 85,
     "timeMonth": 93,
-    "timeYear": 97,
-    "dailyMinutesDown": {}
+    "timeYear": 96,
+    "dailyMinutesDown": {
+      "2024-04-01": 0
+    }
   }
 ]
