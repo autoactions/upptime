@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Openai API
     url: https://openai.aigateway.lirtual.cloudns.org/
+    icon: https://openai.com/favicon.ico
   - name: RSSHub
     url: https://rsshub.lirtual.cloudns.org/
   - name: Telegraph Image
