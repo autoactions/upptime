@@ -1,7 +1,7 @@
 url: https://openai.aigateway.lirtual.cloudns.org/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-02T12:55:31.378Z
+status: up
+code: 200
+responseTime: 291
+lastUpdated: 2024-08-02T13:18:01.651Z
 startTime: 2024-01-26T09:44:02.730Z
 generator: Upptime <https://github.com/upptime/upptime>
