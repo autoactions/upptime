@@ -9,7 +9,7 @@ sites:
   - name: LobeChat
     url: https://lobe.lirtual.cloudns.org/favicon.ico
   - name: RSSHub
-    url: https://rsshub.lirtual.cloudns.org/
+    url: https://rsshub.lirtual.cloudns.org/logo.png
   - name: Telegraph Image
     url: https://img.lirtual.cloudns.org/
   - name: FlareDrive
