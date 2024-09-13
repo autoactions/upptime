@@ -10,8 +10,6 @@ sites:
     url: https://lobe.lirtual.cloudns.org/
   - name: RSSHub
     url: https://rsshub.lirtual.cloudns.org/
-  - name: Telegraph Image
-    url: https://img.lirtual.cloudns.org/
   - name: FlareDrive
     url: https://flaredrive.lirtual.cloudns.org/
 
