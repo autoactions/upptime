@@ -1,7 +1,7 @@
 url: https://openai.lirtual.cloudns.org/
 status: down
-code: 401
-responseTime: 272
-lastUpdated: 2024-12-26T23:14:31.583Z
+code: 503
+responseTime: 350
+lastUpdated: 2024-12-27T23:14:24.413Z
 startTime: 2024-01-26T09:44:02.730Z
 generator: Upptime <https://github.com/upptime/upptime>
