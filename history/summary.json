@@ -4,12 +4,12 @@
     "url": "https://openai.lirtual.cloudns.org/",
     "icon": "https://openai.com/favicon.ico",
     "slug": "openai-api",
-    "status": "up",
-    "uptime": "89.73%",
-    "uptimeDay": "55.95%",
+    "status": "down",
+    "uptime": "89.82%",
+    "uptimeDay": "56.60%",
     "uptimeWeek": "83.44%",
     "uptimeMonth": "96.19%",
-    "uptimeYear": "89.28%",
+    "uptimeYear": "89.37%",
     "time": 309,
     "timeDay": 443,
     "timeWeek": 363,
@@ -67,8 +67,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1332,
-      "2024-04-26": 495
+      "2024-06-28": 1332
     }
   },
   {
