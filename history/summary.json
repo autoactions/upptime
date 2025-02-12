@@ -4,9 +4,9 @@
     "url": "https://openai.lirtual.cloudns.org/",
     "icon": "https://openai.com/favicon.ico",
     "slug": "openai-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "55.02%",
+    "uptimeDay": "55.59%",
     "uptimeWeek": "71.06%",
     "uptimeMonth": "93.34%",
     "uptimeYear": "98.96%",
@@ -32,7 +32,7 @@
       "2024-08-07": 32,
       "2024-08-06": 38,
       "2024-08-05": 93,
-      "2024-08-04": 427
+      "2024-08-04": 392
     }
   },
   {
@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.lirtual.cloudns.org.ico",
     "slug": "rss-hub",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.06%",
     "time": 325,
     "timeDay": 258,
     "timeWeek": 228,
