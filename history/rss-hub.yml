@@ -1,7 +1,7 @@
 url: https://rsshub.lirtual.cloudns.org/
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2025-03-29T23:14:46.582Z
+status: down
+code: 429
+responseTime: 451
+lastUpdated: 2025-03-30T04:00:07.412Z
 startTime: 2024-07-31T12:28:24.466Z
 generator: Upptime <https://github.com/upptime/upptime>
