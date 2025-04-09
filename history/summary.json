@@ -51,18 +51,19 @@
     "url": "https://rsshub.lirtual.cloudns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.lirtual.cloudns.org.ico",
     "slug": "rss-hub",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "97.02%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "97.01%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "99.01%",
     "time": 382,
-    "timeDay": 349,
-    "timeWeek": 786,
-    "timeMonth": 690,
+    "timeDay": 346,
+    "timeWeek": 767,
+    "timeMonth": 684,
     "timeYear": 382,
     "dailyMinutesDown": {
+      "2025-04-09": 0,
       "2025-04-08": 43,
       "2025-04-07": 148,
       "2025-04-06": 21,
@@ -79,9 +80,7 @@
       "2024-08-05": 631,
       "2024-08-04": 676,
       "2024-08-03": 591,
-      "2024-08-02": 637,
-      "2024-08-01": 1440,
-      "2024-07-31": 613
+      "2024-08-02": 358
     }
   },
   {
