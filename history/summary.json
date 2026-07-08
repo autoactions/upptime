@@ -5,18 +5,19 @@
     "icon": "https://openai.com/favicon.ico",
     "slug": "openai-api",
     "status": "down",
-    "uptime": "48.95%",
+    "uptime": "48.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 374,
+    "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 142,
+      "2026-07-08": 116,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -379,8 +380,7 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
-      "2025-07-08": 1440
+      "2025-07-09": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lobe.lirtual.cloudns.org.ico",
     "slug": "lobe-chat",
     "status": "down",
-    "uptime": "35.96%",
+    "uptime": "35.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1837,
+    "time": 1839,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 142,
+      "2026-07-08": 116,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -763,8 +764,7 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
-      "2025-07-08": 1440
+      "2025-07-09": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.lirtual.cloudns.org.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "35.61%",
+    "uptime": "35.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 591,
+    "time": 601,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 142,
+      "2026-07-08": 116,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -1147,8 +1148,7 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
-      "2025-07-08": 1440
+      "2025-07-09": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flaredrive.lirtual.cloudns.org.ico",
     "slug": "flare-drive",
     "status": "down",
-    "uptime": "35.40%",
+    "uptime": "35.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 233,
+    "time": 227,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 142,
+      "2026-07-08": 116,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -1531,8 +1532,7 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
-      "2025-07-08": 1440
+      "2025-07-09": 1440
     }
   }
 ]
